@@ -38,6 +38,16 @@ cd is for navingation
 rm is for deletion
 
 ```
+#### File Permissions
+
+- read 'r' 
+- Write 'w' 
+- exec 'x'
+
+- Change permision `chmod` + permision file/
+- find out the processes running with `top` and `htop`
+- to kill a processs `pkill` and then a process name
+- another way is to use `kill` and then a process number
 
 ## Development Environment
 
