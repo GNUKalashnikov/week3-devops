@@ -20,11 +20,24 @@
 
 
 ### Usefull comands
+```
+vagrant up
+vagrant reload
+vagrant destroy  
+```
+#### Linux Commands
 
-* vagrant up
-* vagrant reload
-* vagrant destroy  
+```
+sudo apt-get upgrade -y
+whoami
+uname -a
+pwd
+cp /file/ /destination/location
+mv /file/ /destination/location - Can change the
+cd is for navingation
+rm is for deletion
 
+```
 
 ## Development Environment
 
