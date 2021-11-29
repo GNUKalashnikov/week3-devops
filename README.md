@@ -1,5 +1,6 @@
 # Week 3 of DevOps with SpartaGlobal
 
+## Development Environment
 ### What is DevOps?
 * A union of a *Developers* and *Operations*
 * Enables the previously siloed teams to start working together in cooperation
@@ -65,8 +66,13 @@ in this command the cat will output the contents of sample.txt, it will 'pipe' i
 meaning it will output only the first four files, after which it will carry or 'pipe' command into the tail.
 the tail will then output from the first 4 the endings of the last two via the tail command.
 
+### The Four Principles
 
-## Development Environment
+- Continuous Flow
+- Ownership & Visibility 
+- Planning & Time Management
+- Culture
+
 
 
 
