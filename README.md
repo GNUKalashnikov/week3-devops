@@ -49,6 +49,23 @@ rm is for deletion
 - to kill a processs `pkill` and then a process name
 - another way is to use `kill` and then a process number
 
+## Task
+
+**Commands**
+
+* head -2
+* tail -2
+
+*Pipping*
+
+`cat sample.txt | head -4 | tail -2`
+
+Pipping "|" carries the output to the commands following the |, for example,
+in this command the cat will output the contents of sample.txt, it will 'pipe' into head,
+meaning it will output only the first four files, after which it will carry or 'pipe' command into the tail.
+the tail will then output from the first 4 the endings of the last two via the tail command.
+
+
 ## Development Environment
 
 
